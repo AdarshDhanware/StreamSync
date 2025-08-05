@@ -11,7 +11,7 @@ All API endpoints for **StreamSync** are documented using **Swagger (OpenAPI)** 
 
 > You can explore the API via the interactive Swagger UI.
 
-**🔗 Live Swagger Docs**:[View API Documentation](url)  
+**🔗 Live Swagger Docs**:[View API Documentation](https://streamsync-2rv0.onrender.com/api-docs/)  
 
 ---
 
